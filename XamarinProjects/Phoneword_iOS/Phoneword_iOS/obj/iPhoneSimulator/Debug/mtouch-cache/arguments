@@ -1,0 +1,37 @@
+# Version: 10.3.1.8 (cycle8-xi: 7beaef4)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.1.8/lib/mtouch/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.3.1.8/lib/mtouch/mtouch.exe \
+	--cache \
+	/Users/Daiki/XamarinProjects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/Daiki/XamarinProjects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.app \
+	--executable \
+	Phoneword_iOS \
+	--fastdev \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.2 \
+	--targetver \
+	10.2 \
+	--http-message-handler=HttpClientHandler \
+	--tls-provider=default \
+	--abi=x86_64 \
+	--symbollist \
+	/Users/Daiki/XamarinProjects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/Daiki/XamarinProjects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug//Phoneword_iOS.exe \
