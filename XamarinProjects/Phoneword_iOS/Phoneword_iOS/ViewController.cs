@@ -73,6 +73,7 @@ namespace Phoneword_iOS
 
 		public override void PrepareForSegue(UIStoryboardSegue segue, NSObject sender)
 		{
+			Console.WriteLine("このメソッドは度のタイミングで呼ばれるのだろう？");
 			base.PrepareForSegue(segue, sender);
 
 			// set the View Controller that’s powering the screen we’re

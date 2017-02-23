@@ -7,3 +7,10 @@
 /Users/Daiki/XamarinProjects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.exe
 /Users/Daiki/XamarinProjects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.exe
 /Users/Daiki/XamarinProjects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.exe.mdb
+/Users/Daiki/Phoneword_iOS/XamarinProjects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Daiki/Phoneword_iOS/XamarinProjects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Daiki/Phoneword_iOS/XamarinProjects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/Daiki/Phoneword_iOS/XamarinProjects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.exe.mdb
+/Users/Daiki/Phoneword_iOS/XamarinProjects/Phoneword_iOS/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/Daiki/Phoneword_iOS/XamarinProjects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.exe
+/Users/Daiki/Phoneword_iOS/XamarinProjects/Phoneword_iOS/Phoneword_iOS/obj/iPhoneSimulator/Debug/Phoneword_iOS.exe.mdb

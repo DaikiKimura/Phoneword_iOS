@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{3507950D-8DDC-4F6D-8798-2A0A9AD6B345}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword_iOS/ViewController.cs">
     <Files>
       <File FileName="Phoneword_iOS/AppDelegate.cs" Line="47" Column="51" />
-      <File FileName="Phoneword_iOS/ViewController.designer.cs" Line="26" Column="33" />
-      <File FileName="Phoneword_iOS/CreateQuestionButton.cs" Line="11" Column="1" />
-      <File FileName="Phoneword_iOS/ViewController.cs" Line="33" Column="12" />
+      <File FileName="Phoneword_iOS/ViewController.cs" Line="80" Column="23" />
       <File FileName="Phoneword_iOS/Main.cs" Line="13" Column="1" />
+      <File FileName="Phoneword_iOS/PhoneTranslator.cs" Line="10" Column="4" />
+      <File FileName="Phoneword_iOS/CallHistoryController.cs" Line="10" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Phoneword__iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.27497F21-9A30-4C78-86E7-D740DDEFA319" />

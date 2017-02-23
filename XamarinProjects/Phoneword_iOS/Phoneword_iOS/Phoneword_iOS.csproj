@@ -115,7 +115,6 @@
       <DependentUpon>ViewController.cs</DependentUpon>
     </Compile>
     <Compile Include="PhoneTranslator.cs" />
-    <Compile Include="CreateQuestionButton.cs" />
     <Compile Include="CallHistoryController.cs" />
     <Compile Include="CallHistoryController.designer.cs">
       <DependentUpon>CallHistoryController.cs</DependentUpon>
